@@ -2,7 +2,7 @@
 <p align="center">
    <a href="https://discord.gg/GsRGYddPNc">JOIN THE DISCORD</a>
 </p>
-<h4 align="center">Coming soon...</h4>
+<h4 align="center">PUBLISHED</h4>
 
 
 <h4 align="center">Youtube Video Preview:</h4>
