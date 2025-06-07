@@ -7,6 +7,6 @@
 
 <h4 align="center">Youtube Video Preview:</h4>
 
-[![Watch the video](https://img.youtube.com/vi/Z_x5tuxniNA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Z_x5tuxniNA)
+[![Watch the video](https://img.youtube.com/vi/6SGLVDaUASU/maxresdefault.jpg)]([https://www.youtube.com/watch?v=Z_x5tuxniNA](https://www.youtube.com/watch?v=6SGLVDaUASU))
 
 
